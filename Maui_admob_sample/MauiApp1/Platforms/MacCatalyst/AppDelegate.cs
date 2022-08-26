@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Maui_admob_sample;
+namespace MauiApp1;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

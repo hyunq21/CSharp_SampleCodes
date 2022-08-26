@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Maui_admob_sample;
+namespace MauiApp1;
 
 [Application]
 public class MainApplication : MauiApplication

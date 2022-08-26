@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Maui_admob_sample;
+namespace MauiApp1;
 
 public class Program
 {

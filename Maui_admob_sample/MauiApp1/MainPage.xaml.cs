@@ -1,12 +1,12 @@
 ﻿using Plugin.MauiMTAdmob;
 
-namespace Maui_admob_sample;
+namespace MauiApp1;
 
 public partial class MainPage : ContentPage
 {
-	public MainPage()
-	{
-		InitializeComponent();
+    public MainPage()
+    {
+        InitializeComponent();
 
         /* Test ID
 		Android
@@ -66,6 +66,5 @@ public partial class MainPage : ContentPage
 
         CrossMauiMTAdmob.Current.ShowInterstitial();
     }
-
 }
 
