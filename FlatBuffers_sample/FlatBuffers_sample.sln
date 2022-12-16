@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlatBuffers_sample", "FlatBuffers_sample2\FlatBuffers_sample.csproj", "{DFC6C53B-DCEE-4770-8FDC-05EF024F2811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC6C53B-DCEE-4770-8FDC-05EF024F2811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC6C53B-DCEE-4770-8FDC-05EF024F2811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC6C53B-DCEE-4770-8FDC-05EF024F2811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC6C53B-DCEE-4770-8FDC-05EF024F2811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {082976F7-0B70-4A83-BD6F-F46744929BCA}
+	EndGlobalSection
+EndGlobal

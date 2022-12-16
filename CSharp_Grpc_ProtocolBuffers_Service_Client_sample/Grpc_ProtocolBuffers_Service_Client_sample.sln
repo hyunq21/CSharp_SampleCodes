@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grpc_ProtocolBuffers_Service", "Grpc_ProtocolBuffers_Service\Grpc_ProtocolBuffers_Service.csproj", "{A8270FC0-DC1B-45CC-B818-F0D0E21EC3BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grpc_ProtocolBuffers_Client", "Grpc_ProtocolBuffers_Client\Grpc_ProtocolBuffers_Client.csproj", "{4EC47544-6FB8-4AB7-9DFE-BD78A24D3E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8270FC0-DC1B-45CC-B818-F0D0E21EC3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8270FC0-DC1B-45CC-B818-F0D0E21EC3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8270FC0-DC1B-45CC-B818-F0D0E21EC3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8270FC0-DC1B-45CC-B818-F0D0E21EC3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC47544-6FB8-4AB7-9DFE-BD78A24D3E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC47544-6FB8-4AB7-9DFE-BD78A24D3E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC47544-6FB8-4AB7-9DFE-BD78A24D3E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC47544-6FB8-4AB7-9DFE-BD78A24D3E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68FD716-05FA-4C87-A0E6-8B2476E5CF74}
+	EndGlobalSection
+EndGlobal
